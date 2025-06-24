@@ -3,6 +3,7 @@
     "axios": "^1.10.0",
     "dotenv": "^16.5.0",
     "form-data": "^4.0.3",
+    "gh-pages": "^6.3.0",
     "mic-recorder-to-mp3": "^2.2.2",
     "web-vitals": "^5.0.3"
   }
